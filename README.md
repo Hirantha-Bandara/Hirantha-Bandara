@@ -61,5 +61,5 @@
 
 <br/>
 
-![Snake animation](https://github.com/NuwanthaBanadra/Hirantha-Bandara/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Hirantha-Bandara/Hirantha-Bandara/blob/output/github-snake.svg)
 
